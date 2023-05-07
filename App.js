@@ -4,7 +4,7 @@ import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, View } from 'react-native';
 
 import RegistrationScreens  from './Screens/RegistrationScreen'
-// import LoginScreen from './Screens/LoginScreen';
+import LoginScreen from './Screens/LoginScreen';
 
 export default function App() {
 
